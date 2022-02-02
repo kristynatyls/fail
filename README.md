@@ -1,2 +1,1 @@
-# holberton-system_engineering-devops
-First README today
+I am trying to pass the first task, which is about shell basics
